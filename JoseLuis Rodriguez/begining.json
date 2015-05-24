@@ -1,0 +1,46 @@
+{"content":[
+                {
+                    "title": "App Development Course",
+                    "info": "Learned to make applications for iOS with the Stanford course in iTunes U",
+                    "type": "info",
+                    "icon": "BEG_ITU",
+                    "nScreens": 0,
+                    "appStore": false
+                },
+                {
+                    "title": "UNAM Mobile",
+                    "info": "Started as iOS Developer in the innovation lab of my university",
+                    "type": "info",
+                    "icon": "BEG_UM",
+                    "nScreens": 0,
+                    "appStore": false
+                },
+                {
+                    "title": "Descarga Cultura",
+                    "info": "My first iOS app, an app to download the podcasts from my university",
+                    "type": "app",
+                    "icon": "APP_DCU",
+                    "nScreens": 3,
+                    "appStore": true
+                },
+                {
+                    "title": "Living Paints",
+                    "info": "An app to make art take life in museo Soumaya in Mexico City",
+                    "type": "app",
+                    "icon": "APP_LP",
+                    "nScreens": 3,
+                    "appStore": true
+                },
+                {
+                    "title": "Begining with Swift",
+                    "info": "WWDC Scholarship app is my first aproach to swift",
+                    "type": "app",
+                    "icon": "APP_WWDC",
+                    "nScreens": 3,
+                    "appStore": false
+                }
+    
+            ]
+
+
+}

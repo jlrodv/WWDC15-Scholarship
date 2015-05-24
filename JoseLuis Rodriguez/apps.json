@@ -1,0 +1,70 @@
+{"apps":[
+                {
+                    "title": "DCU",
+                    "info": "Learned to make applications for iOS with the Satnford course in itunes U",
+                    "place": "appStore",
+                    "icon": "APP_DCU",
+                    "nScreens": 3,
+                    "appStoreLink": "950397556"
+                },
+                {
+                    "title": "LP",
+                    "info": "Learned to make applications for iOS with the Satnford course in itunes U",
+                    "place": "appStore",
+                    "icon": "APP_LP",
+                    "nScreens": 3,
+                    "appStoreLink": "719829372"
+                 },
+                 {
+                 "title": "TrackISS",
+                 "info": "Learned to make applications for iOS with the Satnford course in itunes U",
+                 "place": "hackaton",
+                 "icon": "APP_WWDC",
+                 "nScreens": 3,
+                 "appStoreLink": "https://github.com/jlrodv/Track-ISS_github"
+                 },
+                 {
+                 "title": "Eventik",
+                 "info": "Learned to make applications for iOS with the Satnford course in itunes U",
+                 "place": "appStore",
+                 "icon": "APP_EVT",
+                 "nScreens": 3,
+                 "appStoreLink": "726536585"
+                 },
+                 {
+                 "title": "LastRoom",
+                 "info": "Learned to make applications for iOS with the Satnford course in itunes U",
+                 "place": "appStore",
+                 "icon": "ICN_LR",
+                 "nScreens": 3,
+                 "appStoreLink": "581428383"
+                 },
+                {
+                    "title": "Bringer",
+                    "info": "Learned to make applications for iOS with the Satnford course in itunes U",
+                    "place": "hackaton",
+                    "icon": "APP_WWDC",
+                    "nScreens": 3,
+                    "appStoreLink": "https://www.paypal-community.com/t5/PayPal-Forward/Solo-Hacker-Wins-BattleHack-Mexico-City/ba-p/887101"
+                },
+                {
+                    "title": "Teamake",
+                    "info": "Learned to make applications for iOS with the Satnford course in itunes U",
+                    "place": "hackaton",
+                    "icon": "APP_WWDC",
+                    "nScreens": 3,
+                    "appStoreLink": "https://github.com/jlrodv/HackMTY"
+                },
+                {
+                    "title": "Bridgefy",
+                    "info": "Learned to make applications for iOS with the Satnford course in itunes U",
+                    "place": "appStore",
+                    "icon": "BRD_Icon",
+                    "nScreens": 3,
+                    "appStoreLink": "975776347"
+                }
+    
+            ]
+
+
+}

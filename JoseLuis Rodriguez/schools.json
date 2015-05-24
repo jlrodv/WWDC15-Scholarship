@@ -1,0 +1,47 @@
+{"schools":[
+                {
+                    "name": "Hay Hoe",
+                    "years": "1995 - 1998",
+                    "latitude": 19.351936,
+                    "longitude": -99.168609,
+                    "level": "Kinder Garden",
+                    "image":"School_DEFAULT"
+                },
+                {
+                    "name": "Centro Escolar Chilpancingo",
+                    "years": "1998 - 2004",
+                    "latitude": 17.544566,
+                    "longitude": -99.499469,
+                    "level": "Elementary School",
+                    "image":"School_CECH"
+                },
+                {
+                    "name": "Instituto México Secundaria",
+                    "years": "2004 - 2007",
+                    "latitude": 19.365776,
+                    "longitude": -99.165210,
+                    "level": "Junior High School",
+                    "image":"School_IMS"
+                },
+                {
+                    "name": "Centro Universitario México",
+                    "years": "2007 - 2010",
+                    "latitude":  19.388673,
+                    "longitude": -99.161648,
+                    "level": "High School",
+                    "image":"School_CUM"
+                },
+                {
+                    "name": "Universidad Nacional Autónoma de México",
+                    "years": "2010 - now days",
+                    "latitude": 19.331137,
+                    "longitude": -99.184457,
+                    "level": "University",
+                    "image":"School_UNAM"
+                }
+    
+            ]
+
+
+}
+    
